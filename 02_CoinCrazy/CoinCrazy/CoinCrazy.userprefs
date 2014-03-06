@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerState.js">
+    <Files>
+      <File FileName="Assets/scripts/Generator.js" Line="26" Column="111" />
+      <File FileName="Assets/scripts/Coin.js" Line="20" Column="13" />
+      <File FileName="Assets/scripts/Splike.js" Line="20" Column="13" />
+      <File FileName="Assets/scripts/PlayerState.js" Line="35" Column="14" />
+      <File FileName="Assets/scripts/GenericMan.js" Line="53" Column="1" />
+      <File FileName="Assets/scripts/Title.js" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
